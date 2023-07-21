@@ -30,3 +30,6 @@ return [
     // other fields...
 ];
 ```
+
+# Uso
+Acesse: <b>http://127.0.0.1:8000/jujubas</b>
