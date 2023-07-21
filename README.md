@@ -7,12 +7,12 @@ Este é um estudo de criação de pacotes para Laravel e disponibilização de i
 
 # Configuração
 No arquivo /config/app.php do projeto Laravel, no item 'providers' adicione o seguinte:
-``php
+```php
     ErnandesRS\Pack4Laravel\Pack4LaravelServiceProvider::class
-``
+```
 
 Vai ficar assim:
-``php
+```php
 <?php
 
 use Illuminate\Support\Facades\Facade;
@@ -29,4 +29,4 @@ return [
     
     // other fields...
 ];
-``
+```
