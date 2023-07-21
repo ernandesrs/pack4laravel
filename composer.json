@@ -1,0 +1,17 @@
+{
+    "name": "ernandesrs/pack4laravel",
+    "description": "Composer package for laravel test",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "ErnandesRS\\Pack4laravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ernandes R Souza",
+            "email": "ernandesrsouza@gmail.com"
+        }
+    ],
+    "require": {}
+}
